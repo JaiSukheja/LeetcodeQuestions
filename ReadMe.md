@@ -35,4 +35,8 @@
 ###### 2149. [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/)
 
 
+## Strings
+
+###### 1021. [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)
+
 
